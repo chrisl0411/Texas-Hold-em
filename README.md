@@ -2,5 +2,3 @@
 
 Script that plays Texas Hold'em.
 
-Work in Progress
-
